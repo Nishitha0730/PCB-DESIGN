@@ -16,4 +16,5 @@ USB Connector & LDO Regualtor
 
 
 ## PCB Design
+This is top layer of the pcb
 ![image alt](https://github.com/Nishitha0730/PCB-DESIGN/blob/main/Top%20Layer.png)

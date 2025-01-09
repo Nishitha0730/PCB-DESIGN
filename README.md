@@ -5,7 +5,7 @@
 This is a 4-layer PCB design project created using Altium Designer 24. The project includes the following components:
 
 - STM32F4 Microcontroller
-- MPU-6050 (Accelerometer and Gyroscope)
+- MPU-6050 
 - USB Connector
 - LDO Regulator (5V to 3.3V conversion)
 
@@ -25,7 +25,7 @@ This diagram outlines the overall structure of the circuit, incorporating key co
 
 ### MPU-6050 Schematic Diagram
 
-The MPU-6050 integrates a 3-axis accelerometer and a 3-axis gyroscope, providing motion data for the project.
+
 
 ![MPU-6050 Schematic Diagram](https://github.com/Nishitha0730/PCB-DESIGN/blob/main/MPU%206050.png)
 

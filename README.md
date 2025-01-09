@@ -13,3 +13,7 @@ MPU-6050 Schematic Diagram
 
 USB Connector & LDO Regualtor
 ![image alt](https://github.com/Nishitha0730/PCB-DESIGN/blob/main/USB%20Connector%20and%20LDO%20Regulator.png)
+
+
+## PCB Design
+![image alt](https://github.com/Nishitha0730/PCB-DESIGN/blob/main/Top%20Layer.png)

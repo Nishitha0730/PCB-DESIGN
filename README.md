@@ -65,16 +65,3 @@ This PCB was designed by following the tutorial:
 **[STM32 PCB Design - Complete Walkthrough - Altium Designer & JLCPCB - Phil's Lab #41](https://www.youtube.com/watch?v=examplelink)**
 
 ---
-
-## Future Improvements
-
-Creating a detailed README like this for GitHub can enhance documentation for projects and aid in securing internships by showcasing your technical skills. For further improvement:
-
-- Include detailed descriptions of each schematic section.
-- Provide a Bill of Materials (BOM) for easier replication.
-- Add links to additional resources or references for learning.
-
----
-
-Thank you for viewing this project! Feel free to explore the repository and provide feedback.
-

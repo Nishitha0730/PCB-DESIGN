@@ -9,3 +9,7 @@ This is Heiratical Shematic Diagram of the Circuit.  It include STM32F4 Microcon
 
 MPU-6050 Schematic Diagram
 ![image alt](https://github.com/Nishitha0730/PCB-DESIGN/blob/main/MPU%206050.png)
+
+
+USB Connector & LDO Regualtor
+![image alt](https://github.com/Nishitha0730/PCB-DESIGN/blob/main/USB%20Connector%20and%20LDO%20Regulator.png)

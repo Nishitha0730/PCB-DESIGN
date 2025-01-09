@@ -21,3 +21,6 @@ This is top layer of the pcb
 
 Rhis is bottom layer of the pcb
 ![image alt](https://github.com/Nishitha0730/PCB-DESIGN/blob/main/Bottom%20Layer.png)
+
+This is 3D view of the pcb
+![image alt](https://github.com/Nishitha0730/PCB-DESIGN/blob/main/3D%20View.png)
